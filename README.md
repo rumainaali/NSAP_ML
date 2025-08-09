@@ -92,11 +92,9 @@ This project aims to use **Machine Learning** to predict the most suitable NSAP 
 * Preprocessing handled missing values and improved prediction reliability.
 * Real-time prediction capability.
 
-<img width="1756" height="821" alt="image" src="https://github.com/user-attachments/assets/df3a08c8-c038-422d-a24d-699a44e9de0c" />
-
-<img width="1753" height="827" alt="image" src="https://github.com/user-attachments/assets/f4494a54-9782-4f8a-965b-c4c37384e617" />
-
 <img width="1534" height="863" alt="image" src="https://github.com/user-attachments/assets/3d4b0671-f455-415a-87e5-c3e86be1cd2f" />
+
+
 
 <img width="1524" height="858" alt="image" src="https://github.com/user-attachments/assets/f722bc32-e34f-490d-9d11-f426fe3e2e2e" />
 
